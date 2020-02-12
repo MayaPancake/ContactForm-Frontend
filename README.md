@@ -1,2 +1,0 @@
-# LearnJS
-Created with CodeSandbox
